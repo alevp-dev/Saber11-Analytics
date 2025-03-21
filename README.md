@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo cargar y analizar datos abiertos desde el portal de Datos Abiertos de Colombia utilizando Python y la API de Socrata.
 
-## 📥 **Requisitos Previos**
+## **Requisitos Previos**
 - Cuenta en [Google Colab](https://colab.research.google.com/)
 - Cuenta en [Datos Abiertos de Colombia](https://www.datos.gov.co/)
 - Clave de acceso (App Token) generada desde el portal de Socrata
