@@ -22,7 +22,7 @@ Este proyecto tiene como objetivo cargar y analizar datos abiertos desde el port
 2. Instala las dependencias necesarias ejecutando:
 
 ```python
-pip install requeriments.txt
+pip install requirements.txt
 ```
 
 3. Agrega tu App Token de Socrata a Google Colab utilizando `userdata` de forma segura:
@@ -55,7 +55,7 @@ This project aims to load and analyze open data from the Datos Abiertos de Colom
 1. Upload the notebook to your Google Drive or open it directly in Google Colab.
 2. Install the necessary dependencies by running:
 ```
-pip install requeriments.txt
+pip install requirements.txt
 ```
 3. Add your Socrata App Token to Google Colab using userdata securely:
 ```
