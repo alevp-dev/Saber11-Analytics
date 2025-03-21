@@ -63,4 +63,9 @@ from google.colab import userdata
 userdata.set('APP_TOKEN', 'TU_APP_TOKEN')
 ```
 4. Run the cells to load and explore the data.
-   
+
+# Contributions
+Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request.
+
+---
+Developed with ❤️ by **Alejandra Villa Posada**
